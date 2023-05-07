@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello!
+I'm Tom, an Engineering Team Lead at [Promoboxx](promoboxx.com)
 
-<!--
-**tsharkey/tsharkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boston -> Denver -> Boston
 
-Here are some ideas to get you started:
+### Professionally
+- Go, Postgres, AWS, Ruby, Docker
+- Specialty in backend development and distributed systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Free Time
+- Learning new things - Svelte, Python, Javascript, AI and Machine Learning
+- When I am stuck inside - gaming, Magic the Gathering (Commander)
+- When I can get outside - photography, golf, sports
+
+## How to Find Me?
+- [sharkey.thomasm@gmail.com](mailto:john@example.com)
+- [linkedin](https://www.linkedin.com/in/tmsharkey/) 
